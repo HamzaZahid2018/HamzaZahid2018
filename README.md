@@ -1,4 +1,4 @@
-# Hi there, I'm Hamza Zahid 👋
+# Hi there, I'm Hamza Zahid 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Web+Developer;Building+intelligent+web+apps)](https://git.io/typing-svg)
 
